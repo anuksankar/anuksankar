@@ -1,5 +1,5 @@
 ### :woman_student: UC Berkeley - Master of Information and Data Science
-[<img src="linkedin_004.png">](https://www.linkedin.com/in/anuksankar/)
+[<img src="linkedin_004.png">](https://www.linkedin.com/in/anuksankar/) <a href="https://www.linkedin.com/in/anuksankar/"></a>
 
  
 <!--
