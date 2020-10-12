@@ -2,7 +2,7 @@
 
 [Capstone: Sidewaukee](http://www.sidewaukee.com)
 
-[LinkedIn<img src="linkedin_004.png">](https://www.linkedin.com/in/anuksankar/) 
+<img src="linkedin_004.png">[(https://www.linkedin.com/in/anuksankar/)]
 <!--
 
 ### Hi! I am Anu Sankar 👋
