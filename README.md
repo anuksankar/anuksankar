@@ -1,6 +1,7 @@
 ### :woman_student: UC Berkeley - Master of Information and Data Science
 #### Capstone : Sidewaukee
 [website: ](http://www.sidewaukee.com)
+
 [github : ](https://github.com/w210-accessibility)
 
 <!--
