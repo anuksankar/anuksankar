@@ -1,5 +1,7 @@
 ### :woman_student: UC Berkeley - Master of Information and Data Science
+
 [Capstone: Sidewaukee](http://www.sidewaukee.com)
+
 [LinkedIn<img src="linkedin_004.png">](https://www.linkedin.com/in/anuksankar/) 
 <!--
 
