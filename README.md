@@ -1,7 +1,6 @@
 ### :woman_student: UC Berkeley - Master of Information and Data Science
-[<img src="linkedin_004.png">](https://www.linkedin.com/in/anuksankar/) <a name="https://www.linkedin.com/in/anuksankar/"></a>
-[Capstone: ](http://www.sidewaukee.com)
- 
+[Capstone: Sidewaukee](http://www.sidewaukee.com)
+[LinkedIn<img src="linkedin_004.png">](https://www.linkedin.com/in/anuksankar/) 
 <!--
 
 ### Hi! I am Anu Sankar 👋
