@@ -1,4 +1,5 @@
 ### :woman_student: UC Berkeley - Master of Information and Data Science
+[<img src="linkedin_icon.jpeg">](https://www.linkedin.com/in/anuksankar/)
 
  
 <!--
