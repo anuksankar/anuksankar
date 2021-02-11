@@ -2,7 +2,7 @@
 *Capstone : Sidewaukee*
 <!-- [http:www.sidewaukee.com](http://www.sidewaukee.com) -->
 [Informational Website](https://sites.google.com/berkeley.edu/sidewaukee)
-[|GitHub Repo](https://github.com/w210-accessibility)
+[| GitHub Repo](https://github.com/w210-accessibility)
 
 <!--
 
